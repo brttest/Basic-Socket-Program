@@ -1,3 +1,5 @@
+#Base Server
+
 import socket 
 
 host = "localhost"
